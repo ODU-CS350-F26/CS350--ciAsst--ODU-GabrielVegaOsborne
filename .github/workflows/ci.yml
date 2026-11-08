@@ -24,4 +24,5 @@
           run: | 
             gradle build
             gradle test
+            gradle reports
             gradle deployReports
