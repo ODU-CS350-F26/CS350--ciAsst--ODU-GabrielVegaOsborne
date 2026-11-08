@@ -1,0 +1,11 @@
+-classpath '/home/gabrielv/Dev/School/CS350/assignment6/CS350--ciAsst--ODU-GabrielVegaOsborne/build/classes/java/main:/home/gabrielv/Dev/School/CS350/assignment6/CS350--ciAsst--ODU-GabrielVegaOsborne/build/resources/main'
+-quiet 
+-d '/home/gabrielv/Dev/School/CS350/assignment6/CS350--ciAsst--ODU-GabrielVegaOsborne/build/docs/javadoc'
+-windowtitle 'CS350--ciAsst--ODU-GabrielVegaOsborne API'
+-doctitle 'CS350--ciAsst--ODU-GabrielVegaOsborne API'
+-notimestamp 
+'/home/gabrielv/Dev/School/CS350/assignment6/CS350--ciAsst--ODU-GabrielVegaOsborne/src/main/java/edu/odu/cs/WordCount.java'
+'/home/gabrielv/Dev/School/CS350/assignment6/CS350--ciAsst--ODU-GabrielVegaOsborne/src/main/java/edu/odu/cs/WordCounter.java'
+'/home/gabrielv/Dev/School/CS350/assignment6/CS350--ciAsst--ODU-GabrielVegaOsborne/src/main/java/edu/odu/cs/MostCommonWords.java'
+'/home/gabrielv/Dev/School/CS350/assignment6/CS350--ciAsst--ODU-GabrielVegaOsborne/src/main/java/edu/odu/cs/WordFilter.java'
+'/home/gabrielv/Dev/School/CS350/assignment6/CS350--ciAsst--ODU-GabrielVegaOsborne/src/main/java/CIAsst.java'
